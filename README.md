@@ -16,7 +16,7 @@ It is the responsibility of the Surco Engineering sector to print drawings for t
 * PysimpleGUI
 * json
 * os
-* pysutogui
+* pyautogui
 * time
 * subprocess
 
